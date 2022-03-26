@@ -120,10 +120,12 @@ hr{
 .contact-me{
   width:60%;
   margin:30px auto  70px auto;
+  allign
   line-height: 2;
 }
 .contact-me p {
   margin-bottom: 50px;
+  text-align: left;
 }
 .btn {
   background: #11cdd4;
